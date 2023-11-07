@@ -1,0 +1,9 @@
+.content{
+    position: absolute;
+    left: 50%;
+    top: 90%;
+    width: 90%;
+    max-width: 900px;
+    transform: translate(-50%,-5-%);
+}
+
